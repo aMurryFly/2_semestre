@@ -12,7 +12,6 @@ Para cualquier duda o aclaración puedes levantar un issue en el presente reposi
 
 ### Profesores y materias 
 
-- Estructura de Datos y Algoritmos 1 | Edgar Tista G.
 - Mecánica | Edgar Raymundo López T
 - Álgebra Lineal | Francisco Barrera del Rayo
 - Cálculo Integral | Pedro Ramírez Manny
